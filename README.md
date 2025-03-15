@@ -26,7 +26,7 @@ Sou apaixonada por inovação tecnológica, desenvolvimento, construção de con
 
 ## 📌 **Projetos em Destaque**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limaizabela&repo=phd-thesis&theme=dark)](https://github.com/limaizabela/VerticalPage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=limaizabela&repo=VerticalPage&theme=dark)](https://github.com/limaizabela/VerticalPage)
 
 ## 🚀 **Linguagens Mais Usadas**
 
