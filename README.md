@@ -1,5 +1,5 @@
 
-# Oi, eu sou Izabela (limaizabela) 👋
+# Hello World, eu sou a Iza 👋
 
 ✨ **DIO Campus Expert 11** na [DIO](https://digitalinnovation.one/) | Entusiasta de **Tecnologia**, **Business Intelligence** e **Inteligência Artificial**
 
@@ -19,10 +19,6 @@ Sou apaixonada por inovação tecnológica, desenvolvimento, construção de con
 - Tornar soluções tecnológicas inovadoras acessíveis e impactantes na vida das pessoas.
 - Aprender e aplicar **Inteligência Artificial** em projetos de desenvolvimento para gerar mais eficiência e criatividade.
 - Autodesenvolvimento, através de leitura, viagens e prática de esportes de aventura.
-
-## 📊 **Estatísticas no GitHub**
-
-![limaizabela's GitHub stats](https://github-readme-stats.vercel.app/api?username=limaizabela&show_icons=true&theme=dark)
 
 ## 📌 **Projetos em Destaque**
 
